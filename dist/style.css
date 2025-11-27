@@ -19,19 +19,19 @@ html {
   width: 30%;
   background: #1a0505;
   padding: 20px;
-  padding-bottom: 20vh; /* 20% from bottom of browser */
   box-sizing: border-box;
   overflow: hidden;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
+  position: relative;
 }
 
 .body-parts-scroll-container {
-  width: 100%;
+  position: absolute;
+  top: 275px; /* Fixed 275px from top of browser window */
+  left: 50%;
+  transform: translateX(-50%);
+  width: calc(100% - 40px);
   max-width: 400px;
-  height: 100%;
+  height: 425px; /* Fixed height of 425px */
   overflow-y: auto;
   overflow-x: hidden;
   scrollbar-width: thin;
@@ -59,9 +59,10 @@ html {
 .body-parts-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 15px;
+  gap: 10px;
   width: 100%;
-  padding-right: 5px;
+  padding: 5px; /* Add padding to contain glow effects */
+  box-sizing: border-box;
 }
 
 .body-part-item {
@@ -76,12 +77,13 @@ html {
   cursor: pointer;
   border: 2px solid transparent;
   aspect-ratio: 1;
+  box-sizing: border-box;
 }
 
 .body-part-item:hover {
   background: #330a0a;
   border-color: #fff;
-  transform: scale(1.05);
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
 }
 
 .body-part-item img {
