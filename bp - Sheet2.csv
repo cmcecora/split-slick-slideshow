@@ -1,0 +1,739 @@
+,,Medical Test,Body Part(s)
+,,AAA repair,"Abdomen, Aorta"
+,,Accent laser,"Skin, Face"
+,,Acid reflux surgery,"Esophagus, Stomach"
+,,Acne laser therapy,"Skin, Face"
+,,Acne surgery,"Skin, Face"
+,,Adjuvant chemotherapy,Whole body (systemic)
+,,Adolescent colposcopy,Cervix
+,,Adrenal scan,"Adrenal glands, Kidneys"
+,,Air contrast enema,"Colon, Rectum"
+,,Angiogram,Blood vessels
+,,Angiogram of abdominal aorta,"Blood vessels, Abdomen, Aorta"
+,,Angiogram of aorta,"Blood vessels, Aorta"
+,,Angiogram of aortoiliac artery,"Blood vessels, Arteries, Iliac arteries"
+,,Angiogram of arm,Blood vessels
+,,Angiogram of carotid,Blood vessels
+,,"Angiogram of carotid, vertebral and cerebral arteries","Blood vessels, Brain"
+,,Angiogram of coronary arteries,"Blood vessels, Heart (coronary arteries)"
+,,Angiogram of leg,Blood vessels
+,,Angiogram of pulmonary artery,"Lungs, Blood vessels, Arteries"
+,,Angiogram of renal arteries,"Blood vessels, Kidneys"
+,,Angiography,Unspecified / multiple possible
+,,Angioplasty,Unspecified / multiple possible
+,,Ankle fracture surgery,Ankle
+,,Ankle MRI arthrogram,"Ankle, Varies (MRI imaging area)"
+,,Ankle MRI with contrast,"Ankle, Varies (MRI imaging area)"
+,,Aorta and bilateral iliofemoral runoff CTA,Aorta
+,,Argon laser iridoplasty,Unspecified / multiple possible
+,,Arteriography,Arteries
+,,Arthrodesis,Unspecified / multiple possible
+,,Auditory brainstem response test,Brain
+,,Balloon angioplasty,Unspecified / multiple possible
+,,Barium enema,"Colon, Rectum"
+,,Barium swallow Xray,Varies (X-ray target area)
+,,Birth defect correction,Varies (CT imaging area)
+,,Bitewing radiograph,Unspecified / multiple possible
+,,Blood pressure,Systemic circulation
+,,Bone density scan,Bones
+,,Bone scan,Bones
+,,Bone scintigraphy,Bones
+,,BVAD,Unspecified / multiple possible
+,,Cancer radiation,Target organ (varies)
+,,Cardiac CT Scan,"Heart, Varies (CT imaging area)"
+,,Cardiac echo,Heart
+,,Cardiac electrophysiology,"Heart conduction system, Heart"
+,,Cardiac function MRI,"Heart, Varies (MRI imaging area)"
+,,Cardiac morphology MRI with contrast,"Heart, Varies (MRI imaging area)"
+,,Cardiac morphology MRI without contrast,"Heart, Varies (MRI imaging area)"
+,,Cardiac MRI with contrast,"Heart, Varies (MRI imaging area)"
+,,Cardiac MRI without contrast,"Heart, Varies (MRI imaging area)"
+,,Cardiac velocity MRI flow map,"Heart, Varies (MRI imaging area)"
+,,Cardioversion,Unspecified / multiple possible
+,,Carotid artery ultrasound,Arteries
+,,Carotid ultrasound exam,Varies (ultrasound target area)
+,,Cerebral angiography,Brain
+,,Cervical laminectomy,Unspecified / multiple possible
+,,Chemical exfoliation for acne,"Skin, Face"
+,,Cholangiogram,Blood vessels
+,,Choledochal stent,Unspecified / multiple possible
+,,Colonoscopy,Colon
+,,Colonoscopy by video capsule,Colon
+,,Colonscopy,Colon
+,,Computed tomography,Unspecified / multiple possible
+,,Computed tomography angiogram,Blood vessels
+,,Conductive keratoplasty,Unspecified / multiple possible
+,,Coronal CT scan of sinus,"Sinuses, Varies (CT imaging area)"
+,,Coronary angiogram,"Blood vessels, Heart (coronary arteries)"
+,,Coronary angioplasty,Heart (coronary arteries)
+,,CT cisternogram,Varies (CT imaging area)
+,,CT cystogram with and without contrast,Varies (CT imaging area)
+,,CT cystogram with contrast,Varies (CT imaging area)
+,,CT cystogram without contrast,Varies (CT imaging area)
+,,CT fistulogram or sinogram,Varies (CT imaging area)
+,,CT guided abscess drainage,Varies (CT imaging area)
+,,CT guided biopsy,Varies (CT imaging area)
+,,CT guided biopsy of abdomen,"Abdomen, Varies (CT imaging area)"
+,,CT guided biopsy of bone,"Bones, Varies (CT imaging area)"
+,,CT guided biopsy of kidney,"Kidneys, Varies (CT imaging area)"
+,,CT guided biopsy of lung or mediastinum,"Lungs, Varies (CT imaging area)"
+,,CT guided biopsy of muscle or soft tissue,Varies (CT imaging area)
+,,CT guided biopsy of pancreas,"Pancreas, Varies (CT imaging area)"
+,,CT guided biopsy of pleura,Varies (CT imaging area)
+,,CT guided biopsy of superficial lymph nodes,"Lymph nodes, Varies (CT imaging area)"
+,,Ct guided CSF leak repair,Varies (CT imaging area)
+,,CT guided drainage,Varies (CT imaging area)
+,,CT guided drainage of appendiceal abscess,"Appendix, Varies (CT imaging area)"
+,,CT guided drainage of hematoma or fluid collection,Varies (CT imaging area)
+,,CT guided drainage of neck abscess or hematoma,"Neck, Varies (CT imaging area)"
+,,CT guided drainage of pancreatic pseudocyst,Varies (CT imaging area)
+,,CT guided drainage of retroperitoneal abscess,Varies (CT imaging area)
+,,CT guided drainage of subphrenic abscess,Varies (CT imaging area)
+,,CT guided external biliary drainage,"Biliary system, Varies (CT imaging area)"
+,,CT guided fine needle aspiration,Varies (CT imaging area)
+,,CT guided hepatic drainage,Varies (CT imaging area)
+,,CT guided internal biliary drainage,"Biliary system, Varies (CT imaging area)"
+,,CT guided peritoneal drainage,Varies (CT imaging area)
+,,CT guided thoracentesis,Varies (CT imaging area)
+,,CT guided vertebroplasty,Varies (CT imaging area)
+,,CT heart scan,"Heart, Varies (CT imaging area)"
+,,CT myelogram,Varies (CT imaging area)
+,,CT of abdomen,"Abdomen, Varies (CT imaging area)"
+,,CT of abdomen and pelvis with contast,"Abdomen, Pelvis, Varies (CT imaging area)"
+,,CT of abdomen and pelvis without contrast,"Abdomen, Pelvis, Varies (CT imaging area)"
+,,CT of adrenals,"Adrenal glands, Kidneys, Varies (CT imaging area)"
+,,CT of ankle,"Ankle, Varies (CT imaging area)"
+,,CT of brain,"Brain, Varies (CT imaging area)"
+,,CT of brain with contrast,"Brain, Varies (CT imaging area)"
+,,CT of cervical spine with contrast,"Cervical spine, Spine, Varies (CT imaging area)"
+,,CT of cervical spine without contrast,"Cervical spine, Spine, Varies (CT imaging area)"
+,,CT of chest,"Chest, Varies (CT imaging area)"
+,,CT of chest and abdomen,"Abdomen, Chest, Varies (CT imaging area)"
+,,CT of chest and abdomen with contrast,"Abdomen, Chest, Varies (CT imaging area)"
+,,CT of chest and abdomen without contrast,"Abdomen, Chest, Varies (CT imaging area)"
+,,CT of chest with contrast,"Chest, Varies (CT imaging area)"
+,,CT of chest without contrast,"Chest, Varies (CT imaging area)"
+,,"CT of chest, abdomen and pelvis","Abdomen, Pelvis, Chest, Varies (CT imaging area)"
+,,CT of femur,"Femur (thigh), Varies (CT imaging area)"
+,,CT of foot,"Foot, Varies (CT imaging area)"
+,,CT of forearm,"Forearm, Varies (CT imaging area)"
+,,CT of groin,Varies (CT imaging area)
+,,CT of hand,"Hand, Varies (CT imaging area)"
+,,CT of head,"Head, Varies (CT imaging area)"
+,,CT of head and neck,"Head, Neck, Varies (CT imaging area)"
+,,CT of head with contrast,"Head, Varies (CT imaging area)"
+,,CT of head without contrast,"Head, Varies (CT imaging area)"
+,,CT of hip,"Hip, Varies (CT imaging area)"
+,,CT of joint,"Joint, Varies (CT imaging area)"
+,,CT of leg,Varies (CT imaging area)
+,,CT of lower extremity with and without contrast,"Lower extremity (leg), Varies (CT imaging area)"
+,,CT of lower extremity with contrast,"Lower extremity (leg), Varies (CT imaging area)"
+,,CT of lower extremity without contrast,"Lower extremity (leg), Varies (CT imaging area)"
+,,CT of lumbar spine with contrast,"Lumbar spine, Spine, Varies (CT imaging area)"
+,,CT of lumbar spine without contrast,"Lumbar spine, Spine, Varies (CT imaging area)"
+,,CT of lumbosacral spine,"Lumbar spine, Sacrum, Spine, Varies (CT imaging area)"
+,,CT of neck,"Neck, Varies (CT imaging area)"
+,,CT of neck with and without contrast,"Neck, Varies (CT imaging area)"
+,,CT of neck without contrast,"Neck, Varies (CT imaging area)"
+,,CT of orbits,"Orbits (eyes), Varies (CT imaging area)"
+,,CT of pelvis,"Pelvis, Varies (CT imaging area)"
+,,CT of pelvis with and without contrast,"Pelvis, Varies (CT imaging area)"
+,,CT of pelvis with contrast,"Pelvis, Varies (CT imaging area)"
+,,CT of pelvis without contrast,"Pelvis, Varies (CT imaging area)"
+,,CT of pituitary,"Pituitary gland, Varies (CT imaging area)"
+,,CT of sella and IAC,"Pituitary region (sella), Varies (CT imaging area)"
+,,CT of shoulder,"Shoulder, Varies (CT imaging area)"
+,,CT of sinus,"Sinuses, Varies (CT imaging area)"
+,,CT of sinus with contrast,"Sinuses, Varies (CT imaging area)"
+,,CT of sinus without contrast,"Sinuses, Varies (CT imaging area)"
+,,CT of spine,"Spine, Varies (CT imaging area)"
+,,CT of thoracic spine with and without contrast,"Thoracic spine, Spine, Varies (CT imaging area)"
+,,CT of thoracic spine with contrast,"Thoracic spine, Spine, Varies (CT imaging area)"
+,,CT of thoracic spine without contrast,"Thoracic spine, Spine, Varies (CT imaging area)"
+,,CT of thumb,"Thumb, Varies (CT imaging area)"
+,,CT of upper arm,"Upper arm, Varies (CT imaging area)"
+,,CT of upper extremity with and without contrast,"Upper extremity (arm), Varies (CT imaging area)"
+,,CT of upper extremity with contrast,"Upper extremity (arm), Varies (CT imaging area)"
+,,CT of upper extremity without contrast,"Upper extremity (arm), Varies (CT imaging area)"
+,,CT of upper extremity without contrast,"Upper extremity (arm), Varies (CT imaging area)"
+,,CT of whole body with contrast,"Whole body, Varies (CT imaging area)"
+,,CT of wrist,"Wrist, Varies (CT imaging area)"
+,,CT pyelogram,Varies (CT imaging area)
+,,CT scan,Varies (CT imaging area)
+,,CT urogram,"Urinary tract, Varies (CT imaging area)"
+,,CT urogram with contrast,"Urinary tract, Varies (CT imaging area)"
+,,CTA,Unspecified / multiple possible
+,,CTA of abdomen,Abdomen
+,,CTA of abdomen and pelvis,"Abdomen, Pelvis"
+,,CTA of brain,Brain
+,,CTA of chest,Chest
+,,CTA of chest and abdomen,"Abdomen, Chest"
+,,CTA of coronary artery,"Heart (coronary arteries), Arteries"
+,,CTA of head,Head
+,,CTA of kidney,Kidneys
+,,CTA of lower extremity,Lower extremity (leg)
+,,CTA of neck,Neck
+,,CTA of pelvis,Pelvis
+,,CTA of torso,Unspecified / multiple possible
+,,CTA of upper extremity,Upper extremity (arm)
+,,Cystogram,Unspecified / multiple possible
+,,Cystometrogram,Unspecified / multiple possible
+,,Cystoscopy with retrograde pyelography,Unspecified / multiple possible
+,,Deep brain stimulation,Brain
+,,Dental Xrays,Teeth
+,,Diagnostic laparoscopy,Unspecified / multiple possible
+,,Diagnostic procedure ENT,Unspecified / multiple possible
+,,Diagnostic procedure eye,Eyes
+,,Diagnostic procedure GI,Unspecified / multiple possible
+,,Diagnostic procedure GI liver,Liver
+,,Diagnostic procedure GI liver,Liver
+,,Diagnostic procedure heart,Heart
+,,Diagnostic procedure IR kidney,Kidneys
+,,Diagnostic procedure joint elbow,"Elbow, Joint"
+,,Diagnostic procedure joint elbow,"Elbow, Joint"
+,,Diagnostic procedure joint knee,"Joint, Knee"
+,,Diagnostic procedure kidney,Kidneys
+,,Diagnostic procedure lung,Lungs
+,,Diagnostic procedure lung/airways,Lungs
+,,Diagnostic procedure muscle,Unspecified / multiple possible
+,,Diagnostic procedure nerve,Unspecified / multiple possible
+,,Diagnostic procedure pregnancy related,Unspecified / multiple possible
+,,Diagnostic procedure pregnancy related,Unspecified / multiple possible
+,,Diagnostic procedure radiology GI,Unspecified / multiple possible
+,,Diagnostic procedure skin,Unspecified / multiple possible
+,,Diagnostic procedure spine,Spine
+,,Diagnostic procedure thyroid,Thyroid
+,,Diagnostic procedure urology,Unspecified / multiple possible
+,,Diagnostic ultrasound,Varies (ultrasound target area)
+,,Digital mammogram,Breast
+,,Doppler test on baby,Unspecified / multiple possible
+,,Doppler ultrasound,Varies (ultrasound target area)
+,,Doppler ultrasound exam of arm or leg,Varies (ultrasound target area)
+,,Doppler ultrasound of middle cerebral artery of fetus,"Brain, Arteries"
+,,Doppler ultrasound of newborn head,Head
+,,Doppler ultrasound of umbilical artery,Arteries
+,,Doppler velocimetry,Unspecified / multiple possible
+,,ECHO,Unspecified / multiple possible
+,,Echocardiogram,Heart
+,,Echocardiogram of fetus,Heart
+,,EGD,Unspecified / multiple possible
+,,Egg freezing,Unspecified / multiple possible
+,,Elbow MRI arthrogram,"Elbow, Varies (MRI imaging area)"
+,,Electromyography,Unspecified / multiple possible
+,,Electrophysiology study,Heart conduction system
+,,Electroretinography,Unspecified / multiple possible
+,,Embryo transfer,Unspecified / multiple possible
+,,EMDA,Unspecified / multiple possible
+,,Endoscopic gastrointestinal ultrasound,Varies (ultrasound target area)
+,,Endoscopic retrograde cholangiopancreatography,Unspecified / multiple possible
+,,Endoscopic ultrasound,Varies (ultrasound target area)
+,,Esophagoscopy,Unspecified / multiple possible
+,,EVLT,Unspecified / multiple possible
+,,Exercise stress test,Unspecified / multiple possible
+,,External beam radiation therapy,Target organ (varies)
+,,Eye ultrasound,Eyes
+,,Facial Xray,Varies (X-ray target area)
+,,Fetal monitoring,Unspecified / multiple possible
+,,Fetal ultrasound,Varies (ultrasound target area)
+,,Fine needle aspiration,Unspecified / multiple possible
+,,Flexible sigmoidoscopy,Unspecified / multiple possible
+,,Fluorescein angiogram,Blood vessels
+,,Fluorescein angiogram of retina,"Blood vessels, Retina"
+,,Fluorescein angiography,Unspecified / multiple possible
+,,Fluorodeoxyglucose PET scan,Whole body (metabolic)
+,,Fluoroscopy,Unspecified / multiple possible
+,,Functional MRI,Varies (MRI imaging area)
+,,Gallbladder radionuclide scan,"Gallbladder, Bladder"
+,,Gallbladder Xray,"Gallbladder, Bladder"
+,,Gallium scan for infection,Varies (scan target area)
+,,Gallium scan for tumor,Varies (scan target area)
+,,Glycolic acid peel,Unspecified / multiple possible
+,,Gonioscopy,Unspecified / multiple possible
+,,Head and neck radiation therapy,"Head, Neck, Target organ (varies)"
+,,Heart angiogram,"Blood vessels, Heart"
+,,Helical computed tomography,Unspecified / multiple possible
+,,Hida scan,Varies (scan target area)
+,,High resolution CT,Unspecified / multiple possible
+,,High resolution CT of brain,"Brain, Varies (CT imaging area)"
+,,High resolution CT of chest,"Chest, Varies (CT imaging area)"
+,,Hip MRI arthrogram,"Hip, Varies (MRI imaging area)"
+,,Holter monitor,Unspecified / multiple possible
+,,Hysterosalpingogram,Unspecified / multiple possible
+,,Imaging,Unspecified / multiple possible
+,,Immunotherapy,Unspecified / multiple possible
+,,In Vitro Fertilization,Unspecified / multiple possible
+,,Internal fetal monitoring,Unspecified / multiple possible
+,,Intrauterine insemination,Uterus
+,,Intravenous pyelogram,Unspecified / multiple possible
+,,Kidney gallium scan,Kidneys
+,,Kidney scan,Kidneys
+,,Knee MRI arthrogram,"Knee, Varies (MRI imaging area)"
+,,KUB,Unspecified / multiple possible
+,,Laser peripheral iridotomy,Unspecified / multiple possible
+,,Laser therapy,Unspecified / multiple possible
+,,Laser treatment of leg veins,Veins
+,,Lithotripsy,Unspecified / multiple possible
+,,Lumbar myelogram,Unspecified / multiple possible
+,,Lung gallium scan,Lungs
+,,Lung radiation,"Target organ (varies), Lungs"
+,,Lung screening CT,Lungs
+,,Lung ventilation perfusion scan,Lungs
+,,LVAD,Unspecified / multiple possible
+,,Lymphangiogram,Blood vessels
+,,Lymphoscintigraphy,Lymphatic system
+,,Magnetic resonance angiography,Unspecified / multiple possible
+,,Magnetic resonance cholangiopancreatography,Unspecified / multiple possible
+,,Magnetic resonance imaging,Unspecified / multiple possible
+,,Magnetic resonance spectroscopy,Unspecified / multiple possible
+,,Mammogram,Breast
+,,Maxillofacial CT,"Face, Jaw"
+,,Mesenteric arteriography,"Arteries, Mesenteric vessels (intestines)"
+,,MIBG scintiscan,Varies (scan target area)
+,,MRA of abdomen with and without contrast,Abdomen
+,,MRA of abdomen with contrast,Abdomen
+,,MRA of abdomen without contrast,Abdomen
+,,MRA of brain with and without contrast,Brain
+,,MRA of brain with contrast,Brain
+,,MRA of brain without contrast,Brain
+,,MRA of carotid and vertebral artery with and without contrast,Arteries
+,,MRA of carotid and vertebral artery with contrast,Arteries
+,,MRA of carotid and vertebral artery without contrast,Arteries
+,,MRA of cervical spine,"Cervical spine, Spine"
+,,MRA of chest with and without contrast,Chest
+,,MRA of chest with contrast,Chest
+,,MRA of chest without contrast,Chest
+,,MRA of kidney with and without contrast,Kidneys
+,,MRA of kidney with contrast,Kidneys
+,,MRA of liver with and without contrast,Liver
+,,MRA of liver with contrast,Liver
+,,MRA of liver with contrast,Liver
+,,MRA of liver without contrast,Liver
+,,MRA of lower extremity with and without contrast,Lower extremity (leg)
+,,MRA of lower extremity with contrast,Lower extremity (leg)
+,,MRA of lower extremity with contrast,Lower extremity (leg)
+,,MRA of lower extremity without contrast,Lower extremity (leg)
+,,MRA of lumbar spine,"Lumbar spine, Spine"
+,,MRA of pelvis with and without contrast,Pelvis
+,,MRA of pelvis with and without contrast,Pelvis
+,,MRA of pelvis without contrast,Pelvis
+,,MRA of thoracic spine,"Thoracic spine, Spine"
+,,MRA of upper extremity,Upper extremity (arm)
+,,MRCP,Unspecified / multiple possible
+,,MRI,Varies (MRI imaging area)
+,,MRI and MRA of abdomen with and without contrast,"Abdomen, Varies (MRI imaging area)"
+,,MRI and MRA of brain with contrast,"Brain, Varies (MRI imaging area)"
+,,MRI and MRA of brain without contrast,"Brain, Varies (MRI imaging area)"
+,,MRI and MRA of chest with reconstruction,"Chest, Varies (MRI imaging area)"
+,,MRI and MRA of pelvis with and without contrast,"Pelvis, Varies (MRI imaging area)"
+,,MRI and MRA of pelvis with and without contrast,"Pelvis, Varies (MRI imaging area)"
+,,MRI arthrogram,Varies (MRI imaging area)
+,,MRI arthrogram of wrist,"Wrist, Varies (MRI imaging area)"
+,,MRI guided breast biopsy,"Breast, Varies (MRI imaging area)"
+,,MRI of abdomen,"Abdomen, Varies (MRI imaging area)"
+,,MRI of abdomen and pelvis,"Abdomen, Pelvis, Varies (MRI imaging area)"
+,,MRI of abdomen with and without contrast,"Abdomen, Varies (MRI imaging area)"
+,,MRI of abdomen with contrast,"Abdomen, Varies (MRI imaging area)"
+,,MRI of abdomen without contrast,"Abdomen, Varies (MRI imaging area)"
+,,MRI of adrenals,"Adrenal glands, Kidneys, Varies (MRI imaging area)"
+,,MRI of ankle,"Ankle, Varies (MRI imaging area)"
+,,MRI of ankle with contrast,"Ankle, Varies (MRI imaging area)"
+,,MRI of ankle without contrast,"Ankle, Varies (MRI imaging area)"
+,,MRI of ankle without contrast,"Ankle, Varies (MRI imaging area)"
+,,MRI of back without contrast,Varies (MRI imaging area)
+,,MRI of bone marrow supply,"Bones, Varies (MRI imaging area)"
+,,MRI of brachial plexus,Varies (MRI imaging area)
+,,MRI of brain,"Brain, Varies (MRI imaging area)"
+,,MRI of brain and IAC with contrast,"Brain, Varies (MRI imaging area)"
+,,MRI of brain and orbits with contrast,"Orbits (eyes), Brain, Varies (MRI imaging area)"
+,,MRI of brain and pituitary with contrast,"Pituitary gland, Brain, Varies (MRI imaging area)"
+,,MRI of brain and spinal cord,"Brain, Varies (MRI imaging area)"
+,,MRI of brain with contrast,"Brain, Varies (MRI imaging area)"
+,,MRI of brain without contrast,"Brain, Varies (MRI imaging area)"
+,,MRI of breast,"Breast, Varies (MRI imaging area)"
+,,MRI of breast with contrast,"Breast, Varies (MRI imaging area)"
+,,MRI of breast with wire localization,"Breast, Varies (MRI imaging area)"
+,,MRI of breast without contrast,"Breast, Varies (MRI imaging area)"
+,,MRI of calf with contrast,Varies (MRI imaging area)
+,,MRI of calf without contrast,Varies (MRI imaging area)
+,,MRI of cervical spine with contrast,"Cervical spine, Spine, Varies (MRI imaging area)"
+,,MRI of cervical spine without contrast,"Cervical spine, Spine, Varies (MRI imaging area)"
+,,MRI of chest,"Chest, Varies (MRI imaging area)"
+,,MRI of chest with contrast,"Chest, Varies (MRI imaging area)"
+,,MRI of chest without contrast,"Chest, Varies (MRI imaging area)"
+,,MRI of elbow with and without contrast,"Elbow, Varies (MRI imaging area)"
+,,MRI of elbow with contrast,"Elbow, Varies (MRI imaging area)"
+,,MRI of elbow without contrast,"Elbow, Varies (MRI imaging area)"
+,,MRI of entire spine with and without contrast,"Spine, Varies (MRI imaging area)"
+,,MRI of entire spine with contrast,"Spine, Varies (MRI imaging area)"
+,,MRI of entire spine without contrast,"Spine, Varies (MRI imaging area)"
+,,MRI of femur,"Femur (thigh), Varies (MRI imaging area)"
+,,MRI of femur with contrast,"Femur (thigh), Varies (MRI imaging area)"
+,,MRI of femur with contrast,"Femur (thigh), Varies (MRI imaging area)"
+,,MRI of fetus,Varies (MRI imaging area)
+,,MRI of foot,"Foot, Varies (MRI imaging area)"
+,,MRI of foot with contrast,"Foot, Varies (MRI imaging area)"
+,,MRI of foot without contrast,"Foot, Varies (MRI imaging area)"
+,,MRI of forearm,"Forearm, Varies (MRI imaging area)"
+,,MRI of forearm with contrast,"Forearm, Varies (MRI imaging area)"
+,,MRI of forearm with contrast,"Forearm, Varies (MRI imaging area)"
+,,MRI of groin,Varies (MRI imaging area)
+,,MRI of hand,"Hand, Varies (MRI imaging area)"
+,,MRI of hand with and without contrast,"Hand, Varies (MRI imaging area)"
+,,MRI of hand without contrast,"Hand, Varies (MRI imaging area)"
+,,MRI of head,"Head, Varies (MRI imaging area)"
+,,MRI of head and neck,"Head, Neck, Varies (MRI imaging area)"
+,,MRI of heart,"Heart, Varies (MRI imaging area)"
+,,MRI of hip with and without contrast,"Hip, Varies (MRI imaging area)"
+,,MRI of hip with contrast,"Hip, Varies (MRI imaging area)"
+,,MRI of IAC with and without contrast,Varies (MRI imaging area)
+,,MRI of IAC without contrast,Varies (MRI imaging area)
+,,MRI of joint,"Joint, Varies (MRI imaging area)"
+,,MRI of knee with and without contrast,"Knee, Varies (MRI imaging area)"
+,,MRI of knee with contrast,"Knee, Varies (MRI imaging area)"
+,,MRI of knee without contrast,"Knee, Varies (MRI imaging area)"
+,,MRI of leg,Varies (MRI imaging area)
+,,MRI of leg with contrast,Varies (MRI imaging area)
+,,MRI of lower extremity joint without contrast,"Lower extremity (leg), Joint, Varies (MRI imaging area)"
+,,MRI of lower extremity joint without contrast,"Lower extremity (leg), Joint, Varies (MRI imaging area)"
+,,MRI of lower extremity without contrast,"Lower extremity (leg), Varies (MRI imaging area)"
+,,MRI of lumbar spine with and without contrast,"Lumbar spine, Spine, Varies (MRI imaging area)"
+,,MRI of lumbar spine with contrast,"Lumbar spine, Spine, Varies (MRI imaging area)"
+,,MRI of lumbar spine with contrast,"Lumbar spine, Spine, Varies (MRI imaging area)"
+,,MRI of lumbar spine without contrast,"Lumbar spine, Spine, Varies (MRI imaging area)"
+,,MRI of lumbosacral spine,"Lumbar spine, Sacrum, Spine, Varies (MRI imaging area)"
+,,MRI of lumbosacral spine with contrast,"Lumbar spine, Sacrum, Spine, Varies (MRI imaging area)"
+,,MRI of neck,"Neck, Varies (MRI imaging area)"
+,,MRI of neck soft tissue with and without contrast,"Neck, Varies (MRI imaging area)"
+,,MRI of neck soft tissue with contrast,"Neck, Varies (MRI imaging area)"
+,,MRI of neck soft tissue without contrast,"Neck, Varies (MRI imaging area)"
+,,MRI of neck without contrast,"Neck, Varies (MRI imaging area)"
+,,MRI of orbits,"Orbits (eyes), Varies (MRI imaging area)"
+,,MRI of orbits with contrast,"Orbits (eyes), Varies (MRI imaging area)"
+,,MRI of orbits without contrast,"Orbits (eyes), Varies (MRI imaging area)"
+,,MRI of pelvis,"Pelvis, Varies (MRI imaging area)"
+,,MRI of pelvis with and without contrast,"Pelvis, Varies (MRI imaging area)"
+,,MRI of pelvis without contrast,"Pelvis, Varies (MRI imaging area)"
+,,MRI of pituitary with and without contrast,"Pituitary gland, Varies (MRI imaging area)"
+,,MRI of pituitary without contrast,"Pituitary gland, Varies (MRI imaging area)"
+,,MRI of prostate with and without contrast,"Prostate, Varies (MRI imaging area)"
+,,MRI of prostate with contrast,"Prostate, Varies (MRI imaging area)"
+,,MRI of prostate with contrast,"Prostate, Varies (MRI imaging area)"
+,,MRI of prostate without contrast,"Prostate, Varies (MRI imaging area)"
+,,MRI of prostate without contrast,"Prostate, Varies (MRI imaging area)"
+,,MRI of sacroiliac spine with and without contrast,"Sacroiliac joints, Spine, Iliac arteries, Varies (MRI imaging area)"
+,,MRI of sacroiliac spine with contrast,"Sacroiliac joints, Spine, Iliac arteries, Varies (MRI imaging area)"
+,,MRI of sacroiliac spine with contrast,"Sacroiliac joints, Spine, Iliac arteries, Varies (MRI imaging area)"
+,,MRI of sacroiliac spine without contrast,"Sacroiliac joints, Spine, Iliac arteries, Varies (MRI imaging area)"
+,,MRI of shoulder,"Shoulder, Varies (MRI imaging area)"
+,,MRI of shoulder with and without contrast,"Shoulder, Varies (MRI imaging area)"
+,,MRI of shoulder with contrast,"Shoulder, Varies (MRI imaging area)"
+,,MRI of shoulder without contrast,"Shoulder, Varies (MRI imaging area)"
+,,MRI of sinus,"Sinuses, Varies (MRI imaging area)"
+,,MRI of sinus with contrast,"Sinuses, Varies (MRI imaging area)"
+,,MRI of spine,"Spine, Varies (MRI imaging area)"
+,,MRI of thoracic spine with and without contrast,"Thoracic spine, Spine, Varies (MRI imaging area)"
+,,MRI of thoracic spine with contrast,"Thoracic spine, Spine, Varies (MRI imaging area)"
+,,MRI of thoracic spine without contrast,"Thoracic spine, Spine, Varies (MRI imaging area)"
+,,MRI of thoracic spine without contrast,"Thoracic spine, Spine, Varies (MRI imaging area)"
+,,MRI of thumb,"Thumb, Varies (MRI imaging area)"
+,,MRI of TMJ,"Temporomandibular joint, Varies (MRI imaging area)"
+,,MRI of upper arm,"Upper arm, Varies (MRI imaging area)"
+,,MRI of upper arm with contrast,"Upper arm, Varies (MRI imaging area)"
+,,MRI of upper extremity with and without contrast,"Upper extremity (arm), Varies (MRI imaging area)"
+,,MRI of upper extremity with contrast,"Upper extremity (arm), Varies (MRI imaging area)"
+,,MRI of upper extremity without contrast,"Upper extremity (arm), Varies (MRI imaging area)"
+,,MRI of whole body,"Whole body, Varies (MRI imaging area)"
+,,MRI of whole body with contrast,"Whole body, Varies (MRI imaging area)"
+,,MRI of wrist,"Wrist, Varies (MRI imaging area)"
+,,MRI of wrist with contrast,"Wrist, Varies (MRI imaging area)"
+,,MRI of wrist without contrast,"Wrist, Varies (MRI imaging area)"
+,,MRI of wrist without contrast,"Wrist, Varies (MRI imaging area)"
+,,MRI scan,Varies (MRI imaging area)
+,,MRI urogram with and without contrast,"Urinary tract, Varies (MRI imaging area)"
+,,MRI urography,Varies (MRI imaging area)
+,,Multigated acquisition scan,Varies (scan target area)
+,,Multiple sleep latency test,Unspecified / multiple possible
+,,Myectomy surgery,Unspecified / multiple possible
+,,Myelogram,Unspecified / multiple possible
+,,Myelogram of cervical spine,"Cervical spine, Spine"
+,,Myelogram of entire spine,Spine
+,,Myelogram of posterior fossa,Unspecified / multiple possible
+,,Myelogram of thoracic spine,"Thoracic spine, Spine"
+,,Myocardial infarction scan,Varies (scan target area)
+,,Myocardial perfusion scan at rest,Varies (scan target area)
+,,Myocardial perfusion scan with pain,Varies (scan target area)
+,,Myocardial perfusion scan with pharmacological stress,Varies (scan target area)
+,,Myocardial perfusion scan with sestamibi,Varies (scan target area)
+,,Myocardial perfusion scan with thallium,Varies (scan target area)
+,,Nuclear bladder scan,Bladder
+,,Nuclear scans,Varies (scan target area)
+,,Nuclear stress testing,Unspecified / multiple possible
+,,Nuclear ventriculography,Unspecified / multiple possible
+,,Obstetric ultrasound,Varies (ultrasound target area)
+,,Open reduction,Unspecified / multiple possible
+,,Oral cholecystogram,Unspecified / multiple possible
+,,Orbit CT scan,"Orbits (eyes), Varies (CT imaging area)"
+,,Ovary removal,Ovaries
+,,Pancrease CTA with CT cholangiopancreatography,"Pancreas, Varies (CT imaging area)"
+,,Paracentesis,Unspecified / multiple possible
+,,Parathyroid scan,"Parathyroid glands, Thyroid"
+,,Pelvic ultrasound,Varies (ultrasound target area)
+,,Pelvic Xray,Varies (X-ray target area)
+,,Percutaneous transhepatic cholangiogram,Blood vessels
+,,Percutaneous transhepatic cholangiography,Unspecified / multiple possible
+,,Percutaneous transluminal coronary angioplasty,Heart (coronary arteries)
+,,Perfusion scan,Varies (scan target area)
+,,PET brain for metabolic evaluation,"Brain, Whole body (metabolic)"
+,,PET brain for perfusion evaluation,"Brain, Whole body (metabolic)"
+,,PET breast cancer diagnosis,"Breast, Whole body (metabolic)"
+,,PET breast cancer recurrence,"Breast, Whole body (metabolic)"
+,,PET breast cancer response to treatment,"Breast, Whole body (metabolic)"
+,,PET cervical cancer diagnosis,"Cervix, Whole body (metabolic)"
+,,PET cervical cancer staging,"Cervix, Whole body (metabolic)"
+,,PET colorectal cancer initial staging,"Colon, Rectum, Whole body (metabolic)"
+,,PET CT Alzheimers disease,"Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT brain metabolic evaluation,"Whole body (metabolic), Brain, Varies (CT imaging area)"
+,,PET CT breast cancer monitoring,"Breast, Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT breast cancer restaging,"Breast, Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT breast cancer staging,"Breast, Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT cervical cancer staging,"Cervix, Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT colorectal cancer diagnosis,"Colon, Rectum, Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT colorectal cancer initial staging,"Colon, Rectum, Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT colorectal cancer initial staging,"Colon, Rectum, Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT colorectal cancer restaging,"Colon, Rectum, Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT esophageal cancer diagnosis,"Esophagus, Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT esophageal cancer initial staging,"Esophagus, Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT esophageal cancer restaging,"Esophagus, Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT head and neck cancer diagnosis,"Head, Neck, Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT head and neck cancer initial staging,"Head, Neck, Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT head and neck cancer initial staging,"Head, Neck, Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT head and neck cancer restaging,"Head, Neck, Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT lung cancer diagnosis,"Whole body (metabolic), Lungs, Varies (CT imaging area)"
+,,PET CT lung cancer diagnosis,"Whole body (metabolic), Lungs, Varies (CT imaging area)"
+,,PET CT lung cancer initial staging,"Whole body (metabolic), Lungs, Varies (CT imaging area)"
+,,PET CT lung cancer restaging,"Whole body (metabolic), Lungs, Varies (CT imaging area)"
+,,PET CT lung cancer restaging,"Whole body (metabolic), Lungs, Varies (CT imaging area)"
+,,PET CT lymphoma diagnosis,"Lymphatic system, Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT lymphoma initial staging,"Lymphatic system, Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT lymphoma restaging,"Lymphatic system, Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT melanoma diagnosis,"Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT melanoma initial staging,"Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT melanoma restaging,"Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT pulmonary nodule,"Lungs, Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT refractory seizures presurgical evaluation,"Whole body (metabolic), Varies (CT imaging area)"
+,,PET CT thyroid cancer restaging,"Thyroid, Whole body (metabolic), Varies (CT imaging area)"
+,,PET esophageal cancer diagnosis,"Esophagus, Whole body (metabolic)"
+,,PET esophageal cancer initial staging,"Esophagus, Whole body (metabolic)"
+,,PET esophageal cancer restaging,"Esophagus, Whole body (metabolic)"
+,,PET for Alzheimers disease,Whole body (metabolic)
+,,PET head and neck cancer diagnosis,"Head, Neck, Whole body (metabolic)"
+,,PET head and neck cancer initial staging,"Head, Neck, Whole body (metabolic)"
+,,PET head and neck cancer restaging,"Head, Neck, Whole body (metabolic)"
+,,PET lung cancer diagnosis,"Lungs, Whole body (metabolic)"
+,,PET lung cancer initial staging,"Lungs, Whole body (metabolic)"
+,,PET lymphoma diagnosis,"Lymphatic system, Whole body (metabolic)"
+,,PET lymphoma initial staging,"Lymphatic system, Whole body (metabolic)"
+,,PET lymphoma restaging,"Lymphatic system, Whole body (metabolic)"
+,,PET melanoma diagnosis,Whole body (metabolic)
+,,PET melanoma initial staging,Whole body (metabolic)
+,,PET melanoma restaging,Whole body (metabolic)
+,,PET ovarian cancer restaging,"Ovaries, Whole body (metabolic)"
+,,PET refractory seizures presurgical evaluation,Whole body (metabolic)
+,,PET scan,Whole body (metabolic)
+,,PET thyroid cancer diagnosis,"Thyroid, Whole body (metabolic)"
+,,PET thyroid cancer restaging,"Thyroid, Whole body (metabolic)"
+,,Phlebotomy,Unspecified / multiple possible
+,,Pregnancy ultrasound,Varies (ultrasound target area)
+,,Proton magnetic resonance spectroscopic imaging,Unspecified / multiple possible
+,,Pulmonary function test,Lungs
+,,Pulmonary perfusion scan,Lungs
+,,Pulmonary ventilation scan,Lungs
+,,Radiation therapy,Target organ (varies)
+,,Radioactive iodine uptake,Unspecified / multiple possible
+,,Radiolabeled somatostatin analog scintigraphy,Varies (scan target area)
+,,Radionuclide cystogram,Unspecified / multiple possible
+,,RBC nuclear scan,Varies (scan target area)
+,,Renal angiogram,"Blood vessels, Kidneys"
+,,Renal artery angioplasty,"Arteries, Kidneys"
+,,Renal perfusion scan,Kidneys
+,,Renal scan,Kidneys
+,,Renal venogram,"Veins, Kidneys"
+,,Renogram,Unspecified / multiple possible
+,,Repeat ultrasound,Varies (ultrasound target area)
+,,Retina exam,Retina
+,,Retrograde cystography,Unspecified / multiple possible
+,,Retrograde cystourethrogram,Unspecified / multiple possible
+,,Rhinoscopy,Unspecified / multiple possible
+,,Rhizotomy,Unspecified / multiple possible
+,,Sacroiliac MRI arthrogram,"Sacroiliac joints, Iliac arteries, Varies (MRI imaging area)"
+,,Salivary gland scan,Varies (scan target area)
+,,Sclerotherapy,Unspecified / multiple possible
+,,Scrotal ultrasound,Varies (ultrasound target area)
+,,Serial ultrasound,Varies (ultrasound target area)
+,,Sestamibi parathyroid scan,"Parathyroid glands, Thyroid"
+,,Sestamibi stress test,Unspecified / multiple possible
+,,Shockwave lithotripsy for kidney stones,Kidneys
+,,Shoulder CT arthrogram,"Shoulder, Varies (CT imaging area)"
+,,Shoulder MRI arthrogram,"Shoulder, Varies (MRI imaging area)"
+,,Shoulder replacement,Shoulder
+,,Sialogram,Unspecified / multiple possible
+,,Sialogram MRI,Varies (MRI imaging area)
+,,Sigmoidoscopy,Unspecified / multiple possible
+,,Single photon emission computed tomography,Unspecified / multiple possible
+,,Skeleton Xray,Varies (X-ray target area)
+,,Skin graft,Unspecified / multiple possible
+,,Skull base and/or nasopharynx MRI with contrast,"Skull, Varies (MRI imaging area)"
+,,Skull base and/or nasopharynx MRI without contrast,"Skull, Varies (MRI imaging area)"
+,,Sleep apnea,Unspecified / multiple possible
+,,Slit lamp exam,Unspecified / multiple possible
+,,Sonogram,Unspecified / multiple possible
+,,Spiral CT,Unspecified / multiple possible
+,,Stem cell transplantation,Unspecified / multiple possible
+,,Stress echocardiography,Unspecified / multiple possible
+,,Stress test,Unspecified / multiple possible
+,,Stress thallium test,Unspecified / multiple possible
+,,Subclavian artery arteriogram,Arteries
+,,Technetium 99m pertechnetate scan,Varies (scan target area)
+,,Testicular scan,Varies (scan target area)
+,,Testicular ultrasound,Varies (ultrasound target area)
+,,Thermography,Unspecified / multiple possible
+,,Thigh MRI with and without contrast,"Thigh, Varies (MRI imaging area)"
+,,Thigh MRI with contrast,"Thigh, Varies (MRI imaging area)"
+,,Thigh MRI without contrast,"Thigh, Varies (MRI imaging area)"
+,,Thyroid nuclear scan,Thyroid
+,,Thyroid scan,Thyroid
+,,Thyroid scan uptake only,Thyroid
+,,Thyroid scan with I 123,Thyroid
+,,Thyroid scan with technetium 99m,Thyroid
+,,TMJ MRI arthrogram,"Temporomandibular joint, Varies (MRI imaging area)"
+,,Tracheostomy,Unspecified / multiple possible
+,,Transabdominal ultrasound,Abdomen
+,,Transcranial magnetic stimulation,Unspecified / multiple possible
+,,Transesophageal echocardiogram,"Heart, Esophagus"
+,,Transesophageal echocardiography,Esophagus
+,,Transrectal ultrasound,Rectum
+,,Transrectal ultrasound with prostate biopsy,"Prostate, Rectum"
+,,Transthoracic echocardiogram,Heart
+,,Transvaginal ultrasound,Vagina
+,,Transvaginal ultrasound of pelvis,"Vagina, Pelvis"
+,,Tubal ligation,Unspecified / multiple possible
+,,Ultrasound at 36 weeks,Varies (ultrasound target area)
+,,Ultrasound for nuchal translucency,Varies (ultrasound target area)
+,,Ultrasound guided abscess drainage,Varies (ultrasound target area)
+,,Ultrasound guided amniocentesis,Varies (ultrasound target area)
+,,Ultrasound guided amnioinfusion,Varies (ultrasound target area)
+,,Ultrasound guided arthrocentesis of major joint,Joint
+,,Ultrasound guided arthrocentesis of minor joint,Joint
+,,Ultrasound guided aspiration of breast cyst,Breast
+,,Ultrasound guided aspiration of renal cyst,Kidneys
+,,Ultrasound guided biopsy of endomyocardium,Varies (ultrasound target area)
+,,Ultrasound guided biopsy of kidney,Kidneys
+,,Ultrasound guided biopsy of lung,Lungs
+,,Ultrasound guided biopsy of rectal wall,Rectum
+,,Ultrasound guided biopsy of salivary gland,Varies (ultrasound target area)
+,,Ultrasound guided biopsy of superficial nodes,Varies (ultrasound target area)
+,,Ultrasound guided biopsy of thoracic vertebra,Varies (ultrasound target area)
+,,Ultrasound guided biopsy of thyroid,Thyroid
+,,Ultrasound guided chorionic villus sampling,Varies (ultrasound target area)
+,,Ultrasound guided colpocentesis via vaginal approach,Vagina
+,,Ultrasound guided fine needle aspiration,Varies (ultrasound target area)
+,,Ultrasound guided fine needle aspiration of breast,Breast
+,,Ultrasound guided IUD removal,Varies (ultrasound target area)
+,,Ultrasound guided needle biopsy of breast,Breast
+,,Ultrasound guided needle biopsy of muscle,Varies (ultrasound target area)
+,,Ultrasound guided needle biopsy of pleura,Varies (ultrasound target area)
+,,Ultrasound guided needle core biopsy of breast,Breast
+,,Ultrasound guided ova aspiration,Varies (ultrasound target area)
+,,Ultrasound guided paracentesis,Varies (ultrasound target area)
+,,Ultrasound guided percutaneous biopsy of pancreas,Pancreas
+,,Ultrasound guided percutaneous biopsy of retroperitoneal mass,Varies (ultrasound target area)
+,,"Ultrasound guided percutaneous, transhepatic cholecystomy",Varies (ultrasound target area)
+,,Ultrasound guided pericardiocentesis,Varies (ultrasound target area)
+,,Ultrasound guided rotating knife biopsy of breast,Breast
+,,Ultrasound guided thoracentesis with chest tube placement,Chest
+,,Ultrasound of abdomen,Abdomen
+,,Ultrasound of abdomen and pelvis,"Abdomen, Pelvis"
+,,Ultrasound of adrenal,"Adrenal glands, Kidneys"
+,,Ultrasound of aorta and branches,Aorta
+,,Ultrasound of bladder,Bladder
+,,Ultrasound of bladder and kidneys,"Bladder, Kidneys"
+,,Ultrasound of bone mineral density,Bones
+,,Ultrasound of breast,Breast
+,,Ultrasound of breast with wire localization,Breast
+,,Ultrasound of chest,Chest
+,,Ultrasound of coronary arteries,Heart (coronary arteries)
+,,Ultrasound of extremity,Varies (ultrasound target area)
+,,Ultrasound of extremity veins,Veins
+,,Ultrasound of gall bladder function with CCK,Bladder
+,,Ultrasound of groin,Varies (ultrasound target area)
+,,Ultrasound of hip,Hip
+,,Ultrasound of joint,Joint
+,,Ultrasound of kidneys,Kidneys
+,,Ultrasound of liver or gallbladder,"Gallbladder, Bladder, Liver"
+,,Ultrasound of lower extremity veins,"Lower extremity (leg), Veins"
+,,Ultrasound of neck soft tissue,Neck
+,,Ultrasound of pancreas,Pancreas
+,,Ultrasound of parathyroid,"Parathyroid glands, Thyroid"
+,,Ultrasound of parotid,Varies (ultrasound target area)
+,,Ultrasound of pelvis,Pelvis
+,,Ultrasound of prostate,Prostate
+,,Ultrasound of rectum,Rectum
+,,Ultrasound of retroperitoneal space,Varies (ultrasound target area)
+,,Ultrasound of shoulder,Shoulder
+,,Ultrasound of spine,Spine
+,,Ultrasound of spleen,Spleen
+,,Ultrasound of thyroid,Thyroid
+,,Ultrasound of upper extremity veins,"Upper extremity (arm), Veins"
+,,Ultrasound test,Varies (ultrasound target area)
+,,Ultrasound to baby growth,Varies (ultrasound target area)
+,,Ultrasound to evaluate baby,Varies (ultrasound target area)
+,,Ultrasound to evaluate fetal growth,Varies (ultrasound target area)
+,,Ultrasound to Evaluate Twins,Varies (ultrasound target area)
+,,Upper arm lift,Upper arm
+,,Urinary porphobilinogen,"Urinary system, Urinary tract"
+,,Urodynamic testing,Unspecified / multiple possible
+,,Vascular ultrasound,Blood vessels
+,,VCUG,Unspecified / multiple possible
+,,Venogram of leg,Veins
+,,Vertebroplasty,Unspecified / multiple possible
+,,Video fluoroscopy,Unspecified / multiple possible
+,,Virtual colonoscopy,Colon
+,,Virtual reality exposure therapy,"Brain, Psychological"
+,,White blood cell scan,Varies (scan target area)
+,,Xeroradiography,Unspecified / multiple possible
+,,Xray,Varies (X-ray target area)
+,,Xray of abdomen,Abdomen
+,,Xray of ankle,Ankle
+,,Xray of bladder & urethra while voiding,"Bladder, Urethra"
+,,Xray of chest,Chest
+,,Xray of clavicle,Clavicle
+,,Xray of coccyx,Coccyx
+,,Xray of elbow,Elbow
+,,Xray of femur,Femur (thigh)
+,,Xray of foot,Foot
+,,Xray of forearm,Forearm
+,,Xray of hand,Hand
+,,Xray of head,Head
+,,Xray of hip,Hip
+,,Xray of joint,Joint
+,,Xray of knee,Knee
+,,Xray of leg,Varies (X-ray target area)
+,,Xray of lower spine,Spine
+,,Xray of lumbosacral spine,"Lumbar spine, Sacrum, Spine"
+,,Xray of neck,Neck
+,,Xray of nose,Nose
+,,Xray of orbits,Orbits (eyes)
+,,Xray of pelvis,Pelvis
+,,Xray of ribs,Ribs
+,,Xray of shoulder,Shoulder
+,,Xray of sinuses,Sinuses
+,,Xray of skull,Skull
+,,Xray of spine,Spine
+,,Xray of sternum,Sternum
+,,Xray of the bladder,Bladder
+,,Xray of thoracic spine,"Thoracic spine, Spine"
+,,Xray of thumb,Thumb
+,,Xray of upper arm,Upper arm
+,,Xray of whole body,Whole body
+,,Xray of wrist,Wrist
+,,Yag laser,Unspecified / multiple possible

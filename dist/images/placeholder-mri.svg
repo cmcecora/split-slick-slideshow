@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="none">
+  <rect width="200" height="120" fill="#1a1a2e"/>
+  <ellipse cx="100" cy="60" rx="55" ry="35" stroke="#2563eb" stroke-width="3"/>
+  <ellipse cx="100" cy="60" rx="42" ry="26" stroke="#2563eb" stroke-width="2"/>
+  <ellipse cx="100" cy="60" rx="28" ry="17" stroke="#2563eb" stroke-width="2"/>
+  <ellipse cx="100" cy="60" rx="14" ry="8" fill="#2563eb" opacity="0.5"/>
+  <path d="M40 60h12M148 60h12" stroke="#2563eb" stroke-width="2"/>
+  <text x="100" y="115" text-anchor="middle" fill="#2563eb" font-family="system-ui" font-size="8" font-weight="600">MRI</text>
+</svg>

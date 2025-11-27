@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="none">
+  <rect width="200" height="120" fill="#1a1a2e"/>
+  <path d="M100 15v20" stroke="#db2777" stroke-width="3"/>
+  <path d="M100 35c-16 0-24 16-24 32s8 24 24 24" stroke="#db2777" stroke-width="2.5" fill="none"/>
+  <path d="M100 35c16 0 24 16 24 32s-8 24-24 24" stroke="#db2777" stroke-width="2.5" fill="none"/>
+  <path d="M100 91v14" stroke="#db2777" stroke-width="3"/>
+  <circle cx="100" cy="55" r="8" fill="#db2777"/>
+  <circle cx="85" cy="70" r="3" fill="#db2777"/>
+  <circle cx="115" cy="70" r="3" fill="#db2777"/>
+  <text x="100" y="115" text-anchor="middle" fill="#db2777" font-family="system-ui" font-size="8" font-weight="600">ANGIOGRAM</text>
+</svg>

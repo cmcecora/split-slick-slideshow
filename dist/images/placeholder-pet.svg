@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" fill="none">
+  <rect width="200" height="120" fill="#1a1a2e"/>
+  <circle cx="100" cy="55" r="40" stroke="#dc2626" stroke-width="2"/>
+  <circle cx="100" cy="55" r="28" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="6 3"/>
+  <circle cx="100" cy="55" r="16" fill="#dc2626" opacity="0.2"/>
+  <circle cx="85" cy="48" r="6" fill="#dc2626"/>
+  <circle cx="115" cy="48" r="6" fill="#dc2626"/>
+  <circle cx="100" cy="68" r="8" fill="#dc2626"/>
+  <text x="100" y="115" text-anchor="middle" fill="#dc2626" font-family="system-ui" font-size="8" font-weight="600">PET SCAN</text>
+</svg>
